@@ -23,7 +23,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To analyze 12,000 e-commerce transactions across 8 product categories and 2,000 customers to identify customer value patterns, optimize inventory management, and develop data-driven business recommendations for improved marketing ROI.
 
-**Code:** [`tech-store-sales-analysis_2026.ipynb`](https://github.com/basith-op/PortfolioProjects/blob/main/tech_store_analysis_2026.ipynb)
+**Code:** [`tech-store-sales-analysis_2026.ipynb`](https://github.com/basith-op/PortfolioProjects/blob/main/tech%5Fstore%5sales%5FFanalysis%5F2026.ipynb)
 
 **Description:** Comprehensive 5-module data analysis project examining Indonesian e-commerce data (2024-2025) using RFM customer segmentation, K-Means clustering, time-series decomposition, and price elasticity analysis. Discovered that 7% of customers generate 40% of revenue, with Q4 seasonality peaking at 2-3x normal baseline. Developed actionable business recommendations for customer retention, discount strategy, and seasonal inventory planning with estimated 2-3x marketing ROI improvement.
 
