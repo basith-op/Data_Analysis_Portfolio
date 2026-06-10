@@ -6,7 +6,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and definitely because there are always job openings for data analysts
 
-My CV in [pdf](https://github.com/basith-op/Data_Analysis_Portfolio/blob/main/Ramadhani%20Basith%20Razaky%20CV.pdf).
+My CV in [pdf](https://github.com/basith-op/Data_Analysis_Portfolio/blob/main/Ramadhani%20Basith%20Razaky%20CV%202026.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
